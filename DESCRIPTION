@@ -1,0 +1,11 @@
+Package: captureWidget
+Title: d3 Bubble Chart htmlwidget
+Version: 0.2
+Authors@R: c(person("Juan Pablo", "Marín Díaz", role = c("cre", "aut"), email = "jpmarindiaz@gmail.com"),
+    person("Mike", "Bostock", role = "aut"))
+Description: 
+Depends:
+    R (>= 3.0),htmlwidgets
+License: file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
